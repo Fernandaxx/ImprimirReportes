@@ -1,0 +1,20 @@
+# Compilacion de .NET
+**/bin/
+**/obj/
+
+# Publicaciones generadas
+entrega/
+publicacion/
+
+# Datos locales de ejecucion
+**/Datos/
+
+# Archivos de usuario y sistema
+*.user
+*.suo
+.DS_Store
+
+# IDE
+.vs/
+.vscode/
+.idea/
