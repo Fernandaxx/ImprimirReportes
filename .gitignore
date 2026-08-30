@@ -1,15 +1,16 @@
-# Compilacion de .NET
+# .NET build output
 **/bin/
 **/obj/
 
-# Publicaciones generadas
-entrega/
-publicacion/
+# Generated publish output
+delivery/
+Installer/
+*.zip
 
-# Datos locales de ejecucion
-**/Datos/
+# Local runtime data
+**/Data/
 
-# Archivos de usuario y sistema
+# User and operating-system files
 *.user
 *.suo
 .DS_Store

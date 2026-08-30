@@ -5,7 +5,6 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <DocnetRuntime>win-x64</DocnetRuntime>
-    <UserSecretsId>dotnet-ImprimirReportes.Worker-598678c9-fea8-4361-bed3-ee8bc48cc640</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
