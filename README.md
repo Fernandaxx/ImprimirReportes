@@ -9,8 +9,6 @@ La solución fue diseñada para recibir archivos descargados desde SQL Server Re
 - Prueba interactiva realizada correctamente en una máquina virtual Windows.
 - Impresión física validada con una impresora real.
 - Publicación autónoma para Windows x64; la máquina de destino no necesita tener .NET instalado.
-- Compilación Release sin errores ni advertencias.
-- Dependencias NuGet revisadas sin vulnerabilidades conocidas al momento de la entrega.
 
 ## Flujo de procesamiento
 
